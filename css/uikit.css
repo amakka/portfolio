@@ -57,6 +57,18 @@ a:hover,
   color: #0f6ecd;
   text-decoration: underline;
 }
+
+.nav_link {
+  color: grey;
+  float: center;
+  font-size: 1.5rem;
+
+}
+
+.to_top {
+  clear: both;
+  bottom: 0px;
+}
 /* Text-level semantics
  ========================================================================== */
 /*
